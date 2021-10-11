@@ -1,4 +1,4 @@
-[![Run on Ainize](https://ainize.ai/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=https://github.com/dariuszo/UGATIT)
+[![Run on Ainize](https://ainize.ai/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=https://github.com/dariuszo/ugatit)
 >if you use Ainize, please input jpg/png file.</br>
 if you input other file not jpg/png, It will not work.please do not input other kinds of file.
 ## U-GAT-IT &mdash; Official TensorFlow Implementation (ICLR 2020)
