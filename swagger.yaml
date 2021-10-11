@@ -10,7 +10,7 @@ info:
     name: "MIT"
     url: https://github.com/taki0112/UGATIT
 servers:
-  - url: 'https://ugatit-gpu.dariuszo.endpoint.ainize.ai'
+  - url: 'https://ugatit-gpu-dariuszo.endpoint.ainize.ai'
 
 paths:
   /selfie2anime:
